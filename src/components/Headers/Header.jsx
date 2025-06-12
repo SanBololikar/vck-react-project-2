@@ -55,10 +55,7 @@ function Header() {
         <Link
           to="/admissions"
           className="nav-item btn primary-btn"
-          onClick={closeDrawer}
-        >
-          Apply Now!
-        </Link>
+          onClick={closeDrawer}>Apply Now!</Link>
       </nav>
       {isDrawerOpen && (
         <div className="drawer-overlay" onClick={toggleDrawer}></div>
