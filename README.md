@@ -1,1 +1,10 @@
 # VCK Website by React js
+## VCK Demo Website
+
+This project contains website of "Vivekanand college Kolhapur"(VCK).
+
+In this site I created a normal Home page with a navigation bar on top containig About page, courses page and contact page.
+
+I added a "Apply now!" button that opens Admission's page...
+
+## This is my First ever created project....
